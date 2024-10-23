@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[374],{374:(e,n,r)=>{var t=r(43),c=r(391),d=r(579);const o=()=>(0,d.jsx)("div",{style:{margin:"10px",padding:"10px",textAlign:"center",backgroundColor:"cyan"},children:(0,d.jsx)("h1",{children:"User App"})});c.createRoot(document.getElementById("root")).render((0,d.jsx)(t.StrictMode,{children:(0,d.jsx)(o,{})}))}}]);
+//# sourceMappingURL=374.8d318e18.chunk.js.map
